@@ -1,0 +1,39 @@
+dear $name$
+
+
+Re: Expiry of Fixed-term Contract
+
+
+As you are aware, the current fixed-term contract under which you are employed as $job$ in the $dep$ department  
+will expire on $exdate$. 
+
+I am writing to invite you to a consultation meeting relating to the upcoming expiry of your fixed-term contract.
+During the meeting we will explore the available options for your continued employment with King's College London. 
+
+The meeting will take place on $date$ at $time$ in $room$. 
+
+You are entitled, if you wish, to be accompanied at the meeting by a work colleague or a trade union representative.
+
+Please find attached a copy of the pro-forma for the meeting, indicating the areas for our discussion AND ANY OTHE
+RELEVANT DOCUMENTATION.
+
+Please indicate whether you or your companion have any particular requirements arising out of disability to facilitate your
+attendance at the meeting.
+
+I look forward to receiving your confirmation of attendance and the name of your companion (if applicable).
+
+Yours sincerely
+
+
+Uday Kiran
+Head of Department / Grant Holder / Line Manager
+
+
+
+To the Employee: $name$.
+Employee Id: $id$. 
+
+
+cc	Head of Department
+	HR Advisor
+
